@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import AdminLayout from '@/react-app/components/admin/AdminLayout';
-import { Plus, Edit, Trash2, Eye, EyeOff, Search, Filter, Settings, Calendar, User, Tag, X } from 'lucide-react';
+import { Plus, Edit, Trash2, Eye, EyeOff, Search, Filter, Settings, Calendar, User, X } from 'lucide-react';
 import ImageUpload from '@/react-app/components/admin/ImageUpload';
 import RichTextEditor from '@/react-app/components/admin/RichTextEditor';
 import CategoryManager from '@/react-app/components/admin/CategoryManager';
